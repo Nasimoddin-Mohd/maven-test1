@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class Utility {
 
     public static void nasimoddin() {
         System.out.println("I am Nasimoddin");

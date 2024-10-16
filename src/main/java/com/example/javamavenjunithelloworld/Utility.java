@@ -1,3 +1,4 @@
+package com.example.javamavenjunithelloworld;
 import java.util.*;
 public class Utility {
 
